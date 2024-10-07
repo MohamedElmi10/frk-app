@@ -1,4 +1,4 @@
-name : Deploy frontend
+name : Deploy-frontend-to-stage
 on: push
 jobs:
   any-job:
